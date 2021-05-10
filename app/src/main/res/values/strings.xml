@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Desk Weather</string>
+
+    <string name="current_label">Current</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="wind_label">Wind</string>
+    <string name="wind_unit_label">%.0f km/hr</string>
+    <string name="search_label">Search</string>
+    <string name="title_activity_bottom">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
